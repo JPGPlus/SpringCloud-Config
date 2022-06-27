@@ -1,1 +1,5 @@
-this is second file but it is new yaml
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+
